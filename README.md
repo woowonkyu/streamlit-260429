@@ -1,10 +1,13 @@
 Streamlit Cloud는 로컬 환경을 복제하지 않고, 
- ㄱ
+
 requirements.txt에 적힌 패키지만 새로 설치해서 실행합니다.
- ㅎ
+
 로컬에서는 잘 되는데 배포 환경에서만 깨질 때 특히 흔해요.
+
+
  
-핵심은 의존성 파일(requirements.txt) 입니다.
+**핵심은 의존성 파일(requirements.txt) 입니다.**
+
 
 # 해결 방법
 
