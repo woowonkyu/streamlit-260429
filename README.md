@@ -1,6 +1,4 @@
-Streamlit Cloud는 로컬 환경을 복제하지 않고, 
-
-requirements.txt에 적힌 패키지만 새로 설치해서 실행합니다.
+Streamlit Cloud는 로컬 환경을 복제하지 않고, requirements.txt에 적힌 패키지만 새로 설치해서 실행합니다.
 
 로컬에서는 잘 되는데 배포 환경에서만 깨질 때 특히 흔해요.
 
