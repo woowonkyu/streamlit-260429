@@ -12,6 +12,7 @@ Streamlit Cloud는 로컬 환경을 복제하지 않고, requirements.txt에 적
 프로젝트 루트에 requirements.txt 파일을 만들거나 수정해서 아래를 포함하세요:
 
 streamlit
+
 plotly
 
 이미 파일이 있다면 plotly가 빠져 있을 가능성이 큽니다.
